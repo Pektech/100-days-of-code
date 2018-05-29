@@ -7,7 +7,12 @@
 
 **Thoughts:** Looking forward to this.
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 1: June 29, 2017
+
+
+**Today's Progress**: following flask app tutorial on [Practical Apps](https://practicalapps.fullbit.ca/)
+
+**Thoughts:** Jquery is been a pain, python is familiar and soothing.
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
