@@ -14,6 +14,13 @@
 
 **Thoughts:** Jquery is been a pain, python is familiar and soothing.
 
+
+### Day 2: June 30, 2017
+**Today's Progress**: used up my hours trying to get a jquery to work for a datepicker field on a form. works kinda maybe
+
+**Thoughts:** Jquery is STILL been a pain, python is familiar and soothing.
+
+
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
